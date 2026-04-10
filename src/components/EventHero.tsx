@@ -33,7 +33,7 @@ export default function EventHero() {
               <img
                 src="/bannertropicadelia.jpg"
                 alt="Tropicadelia Festival: O Despertar"
-                className="w-full h-48 md:h-64 object-cover object-top"
+                className="w-full object-contain"
               />
             </div>
 
