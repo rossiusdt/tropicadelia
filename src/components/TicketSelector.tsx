@@ -13,13 +13,13 @@ const ticketOptions: TicketOption[] = [
     id: 'pista',
     name: 'PISTA',
     price: 99.90,
-    checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989191962595&store=29891'
+    checkoutUrl: 'https://seguro.compraseguraverificada.online/api/public/shopify?product=2006036996477&store=20060'
   },
   {
     id: 'tropical-lounge',
     name: 'TROPICAL LOUNGE',
     price: 279.90,
-    checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989114571595&store=29891'
+    checkoutUrl: 'https://seguro.compraseguraverificada.online/api/public/shopify?product=2006065659273&store=20060'
   }
 ];
 
